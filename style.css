@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;700&display=swap');
+
+.sub-nav {
+    background: black;
+    color: white;
+    height: 30px; 
+    width: 100%;
+    padding: 1px 0px;
+}
+
+.sub-nav h6 {
+    margin-top: 3px;
+    text-align: center;
+}
+.navbar {
+    margin-top: 20px;
+    width: 100%;
+    font-family: 'Readex Pro', sans-serif;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+
+}
+
+.navbar .logo {
+    margin: -20px 100px 0px -20px;
+}
+
+.navbar li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.navbar li a {
+    color: black;
+    text-decoration: none;
+}
+
+.pesquisa {
+    padding: 2px 90px;
+    border-radius: 17px;
+    border: 1px solid black;
+}
+
+.pesquisa a {
+    margin-left: -70px;
+    color: black;
+    text-decoration: none;
+}
+
+.destaques h1 {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+.carousel-inner {
+    max-height: 800px;
+}
+
+.vendidos h1 {
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+
+.cards {
+    display: flex;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+.cards h3 {
+    margin-top: 10px;
+}
+
+.card {
+    margin-left: 20px;
+    border: none;
+}
+
+.cards img {
+    width: 260px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    border-top: 1px solid black;
+}
+
+.footer .logo {
+    float: right;
+    margin-top: -120px;
+
+}
+
+.footer .icon {
+    display: inline-block;
+    width: 20px;
+}
+
+.footer h5 {
+    margin-top: 20px;
+}
